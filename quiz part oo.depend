@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1609940368 source:c:\users\anave\onedrive\documente\facultate\cp laborator\quiz part oo\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"training.h"
+	"casa.h"
+	"quizq.h"
+	"random.h"
+
+1609878734 c:\users\anave\onedrive\documente\facultate\cp laborator\quiz part oo\training.h
+
+1609934201 source:c:\users\anave\onedrive\documente\facultate\cp laborator\quiz part oo\training.c
+	"training.h"
+	"random.h"
+
+1609934201 source:c:\users\anave\onedrive\documente\facultate\cp laborator\quiz part oo\quizq.c
+	"quizq.h"
+	"random.h"
+
+1609930010 c:\users\anave\onedrive\documente\facultate\cp laborator\quiz part oo\quizq.h
+
+1609930010 c:\users\anave\onedrive\documente\facultate\cp laborator\quiz part oo\casa.h
+
+1609940280 c:\users\anave\onedrive\documente\facultate\cp laborator\quiz part oo\random.h
+
+1609940279 source:c:\users\anave\onedrive\documente\facultate\cp laborator\quiz part oo\casa.c
+	"casa.h"
+	"random.h"
+
+1609939997 source:c:\users\anave\onedrive\documente\facultate\cp laborator\quiz part oo\random.c
+	"random.h"
+	<stdio.h>
+
+1609940279 source:c:\users\anave\onedrive\documente\facultate\cp laborator\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\casa.c
+	"casa.h"
+	"random.h"
+
+1609930010 c:\users\anave\onedrive\documente\facultate\cp laborator\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\casa.h
+
+1609940280 c:\users\anave\onedrive\documente\facultate\cp laborator\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\random.h
+
+1609944324 source:c:\users\anave\onedrive\documente\facultate\cp laborator\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"training.h"
+	"casa.h"
+	"quizq.h"
+	"random.h"
+
+1609878734 c:\users\anave\onedrive\documente\facultate\cp laborator\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\training.h
+
+1609930010 c:\users\anave\onedrive\documente\facultate\cp laborator\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\quizq.h
+
+1609934201 source:c:\users\anave\onedrive\documente\facultate\cp laborator\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\quizq.c
+	"quizq.h"
+	"random.h"
+
+1609939997 source:c:\users\anave\onedrive\documente\facultate\cp laborator\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\random.c
+	"random.h"
+	<stdio.h>
+
+1609934201 source:c:\users\anave\onedrive\documente\facultate\cp laborator\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\training.c
+	"training.h"
+	"random.h"
+
+1610000724 source:c:\users\anave\onedrive\desktop\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\random.c
+	"random.h"
+	<stdio.h>
+
+1609940280 c:\users\anave\onedrive\desktop\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\random.h
+
+1610002531 source:c:\users\anave\onedrive\desktop\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\casa.c
+	"casa.h"
+	"random.h"
+
+1609930010 c:\users\anave\onedrive\desktop\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\casa.h
+
+1610002068 source:c:\users\anave\onedrive\desktop\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\quizq.c
+	"quizq.h"
+	"random.h"
+
+1609930010 c:\users\anave\onedrive\desktop\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\quizq.h
+
+1610002532 source:c:\users\anave\onedrive\desktop\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\training.c
+	"training.h"
+	"random.h"
+
+1609878734 c:\users\anave\onedrive\desktop\velev ana maria & sandor andrei(grupa 3, engleza)-quiz\training.h
+
